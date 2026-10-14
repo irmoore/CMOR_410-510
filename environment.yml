@@ -1,0 +1,17 @@
+name: greens_fem
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - fenics-dolfinx=0.11
+  - mpich
+  - python-gmsh
+  - numpy
+  - scipy
+  - matplotlib
+  - pyvista
+  - ipykernel
+  - ipywidgets
+  - pip
+  - pip:
+      - viskex[backend-dolfinx]==0.2.3
