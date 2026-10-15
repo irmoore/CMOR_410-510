@@ -5,7 +5,7 @@ https://colab.research.google.com/drive/19qUmWhtzkXGHXAk6dYbzmHo4psZccCLG?usp=sh
 Instructions: 
 
 ```
-git pull https://github.com/irmoore/CMOR_410-510.git
+git clone https://github.com/irmoore/CMOR_410-510.git
 cd CMOR_410-510
 conda env create -f environment.yml
 conda activate greens_fem
