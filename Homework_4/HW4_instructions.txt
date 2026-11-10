@@ -1,0 +1,5 @@
+Run HW4.ipynb locally using your install, or go to 
+
+https://colab.research.google.com/github/irmoore/CMOR_410-510/blob/main/Homework_4/HW4.ipynb
+
+for a install free experience. You will need to save a copy in your google drive to make things persist. 
